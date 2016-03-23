@@ -34,3 +34,4 @@ print(list(range(0)))
 
 print('list')
 print('for fetch test')
+print('for fetch test2')
