@@ -33,3 +33,4 @@ print(l1+l2)
 print(list(range(0)))
 
 print('list')
+print('for fetch test')
