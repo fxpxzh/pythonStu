@@ -33,3 +33,6 @@ print(l1+l2)
 print(list(range(0)))
 
 print('list')
+print('for fetch test')
+print('for fetch test2')
+print('for fetch and checkout test2 !')

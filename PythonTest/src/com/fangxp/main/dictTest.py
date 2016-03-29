@@ -23,4 +23,7 @@ t2 = (1,[2,3])
 print(t1)
 print(t2)
 
-print('test')
+print('test22222! for conflict merge test!')
+print('test222223! for conflict merge test!')
+print('test222224! for conflict merge test!')
+print('branch commit test!')
