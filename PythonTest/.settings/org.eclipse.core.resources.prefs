@@ -1,6 +1,11 @@
 eclipse.preferences.version=1
+encoding//src/com/fangxp/func/decorator_func.py=utf-8
+encoding//src/com/fangxp/func/partial_func.py=utf-8
 encoding//src/com/fangxp/func/return_func.py=utf-8
 encoding//src/com/fangxp/func/sortedFucTest.py=utf-8
 encoding//src/com/fangxp/main/ForInTest.py=utf-8
 encoding//src/com/fangxp/main/listTest.py=utf-8
 encoding//src/com/fangxp/main/varibleTest.py=utf-8
+encoding//src/com/fangxp/oop_basic/__init__.py=utf-8
+encoding//src/com/fangxp/oop_basic/animals.py=utf-8
+encoding//src/com/fangxp/oop_basic/protected_student.py=utf-8
